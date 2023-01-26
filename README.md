@@ -37,9 +37,9 @@ with open(sys.argv[1],'r')as f1:
         word = line.split()
         count += len(word)
 print("word count in file = ",count)
+```
 
-
-### OUTPUT:
+## OUTPUT:
 ![output](/Screenshot%20from%202023-01-26%2015-06-11.png)
 
 
